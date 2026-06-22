@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1,roc_auc
+"BERT (bert-base-uncased, official 25k/25k split)",0.92256,0.920006,0.9256,0.922795,0.976448

@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1,roc_auc
+Bidirectional LSTM,0.83188,0.819828848970781,0.85072,0.8349888108044443,0.9044075008000001
