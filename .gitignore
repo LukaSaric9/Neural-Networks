@@ -1,0 +1,52 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+.txt
+.vocab
+.feat
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Data files
+*.csv
+!requirements.csv
+
+# Model files
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Temporary files
+temp/
+tmp/
+
+# TensorBoard logs
+logs/

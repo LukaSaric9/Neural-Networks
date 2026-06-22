@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+wordcloud
+scikit-learn
+nltk
+jupyter
+notebook
+ipykernel
+
+tensorflow==2.15.0
+keras==2.15.0
+tf-keras==2.15.0
+
+transformers==4.38.2
+torch
